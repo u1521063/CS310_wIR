@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="edit_text_state">
+        <attr name="state_invalid_entry" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="check_border_state">
+        <attr name="border_v" format="boolean"/>
+        <attr name="border_h" format="boolean"/>
+    </declare-styleable>
+</resources>

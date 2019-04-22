@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sudoku Solver</string>
+    <string name="full_solve_label">Solve</string>
+    <string name="full_solve_label_b">Solve - BT</string>
+    <string name="full_solve_label_fc">Solve - FC</string>
+
+    <string name="clear_puzzle_label">Clear Board</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="gen_puzzle_label">Generate Puzzle</string>
+    <string name="easy_gen_puzzle_label">Generate Easy Puzzle</string>
+    <string name="med_gen_puzzle_label">Generate Medium Puzzle</string>
+    <string name="tricky_puzzle_label">Generate Tricky Puzzle</string>
+    <string name="fiendish_puzzle_label">Generate Fiendish Puzzle</string>
+    <string name="dia_puzzle_label">Generate Diabolical Puzzle</string>
+    <string name="title_activity_camera">CameraActivity</string>
+</resources>
